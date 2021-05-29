@@ -174,7 +174,6 @@ Clonar el repositorio a traves de git siguiendo los siguientes pasos
 
 * Clonar el repositorio a traves del siguiente commando  **git clone https://github.com/Dherrera54/JWDA-Semana8.git**
 
-![git](https://user-images.githubusercontent.com/78820446/117548460-c7944580-affa-11eb-87bd-e5e574837e68.PNG)
 
 * Dirigirse a la rama E2E_Kraken_Ghost3.42.5 usando el comando **git checkout E2E_Kraken_Ghost3.42.5**
 
