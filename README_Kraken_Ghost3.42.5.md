@@ -1,10 +1,10 @@
-# JWDA-Semana5
+# JWDA-Semana8
 Repositorio del grupo conformado por: Angelica Rodriguez, Jorge Barrera, Wilson Gonzalez y Dario Herrera
 
 
 # Kraken 
 
-Este proyecto contiene el codigo de las pruebas E2E del codigo  GHOST 3.3.0 a traves de Kraken y Gherkins, la url  para las pruebas fue la siguiente http://localhost:2368/
+Este proyecto contiene el codigo de las pruebas E2E del codigo  GHOST 3.42.5 a traves de Kraken y Gherkins, la url  para las pruebas fue la siguiente http://localhost:2368/
 
 ## Comenzando 🚀
 
@@ -147,14 +147,14 @@ El siguiente paso
 
 
 ```
-Revisar que tenga instalado Ghost 3.3.0 de manera correcta, ya registrado un usuario e ingresando de manera correcta
+Revisar que tenga instalado Ghost 3.42.5 de manera correcta, ya registrado un usuario e ingresando de manera correcta
 ```
 
-* Sobre la carpeta que tiene configurado Ghost 3.3.0 debe ejecutar el siguiente comando **ghost start**, en caso de no salir de la siguiente manera tiene un error en la instalacion de Ghost 3.3.0 que debera revisar 
+* Sobre la carpeta que tiene configurado Ghost 3.42.5 debe ejecutar el siguiente comando **ghost start**, en caso de no salir de la siguiente manera tiene un error en la instalacion de Ghost 3.42.5 que debera revisar 
 
 ![ghost start](https://user-images.githubusercontent.com/78820446/117476511-a102db80-af22-11eb-91c7-78b66cf5dc65.PNG)
 
-* En caso de ser la primera vez en Ghost 3.3.0 debera registrarse y evidenciar que ingresa a la pantalla del home de Ghost, en caso que no ingrese a la pantalla, tiene algo mal configurado que debera revisar.
+* En caso de ser la primera vez en Ghost 3.42.5 debera registrarse y evidenciar que ingresa a la pantalla del home de Ghost, en caso que no ingrese a la pantalla, tiene algo mal configurado que debera revisar.
 
 ![Ghost](https://user-images.githubusercontent.com/78820446/117479495-060c0080-af26-11eb-9845-2cf9a2e9ed23.PNG)
 
@@ -172,11 +172,11 @@ Clonar el repositorio a traves de git siguiendo los siguientes pasos
 * Abrir la terminal y ubicarse en la ruta donde se encuentra creada la carpeta a traves de la terminal 
 
 
-* Clonar el repositorio a traves del siguiente commando  **git clone https://github.com/Alejito29/JWDA-Kraken-Semana5**
+* Clonar el repositorio a traves del siguiente commando  **git clone https://github.com/Dherrera54/JWDA-Semana8.git**
 
 ![git](https://user-images.githubusercontent.com/78820446/117548460-c7944580-affa-11eb-87bd-e5e574837e68.PNG)
 
-
+* Dirigirse a la rama E2E_Kraken_Ghost3.42.5 usando el comando **git checkout E2E_Kraken_Ghost3.42.5**
 
 
 El siguiente paso 
@@ -186,9 +186,6 @@ El siguiente paso
 Dirigirse a  la carpeta clonada con la terminal del paso anterior 
 ```
 
-* Sobre la carpeta creada en el paso anterior y el proyecto clonado, debe ejecutarse el siguiente comando **cd JWDA-Kraken-Semana5\proyecto**
-
-![cd](https://user-images.githubusercontent.com/78820446/117548561-47221480-affb-11eb-8e16-2f6824ba9f5c.PNG)
 
 
 * Sobre la carpeta **proyecto** ejecutar **bundle install** no debe salir ningun error en el proceso de instalacion, en caso de salir algun error debe revisar la instalacion de kraken 
