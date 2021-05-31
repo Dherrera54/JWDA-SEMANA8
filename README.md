@@ -26,14 +26,21 @@ El resultado de las pruebas de reconocimiento con Smart-Monkey se encuentra docu
 
 [!image](https://user-images.githubusercontent.com/78655008/120123322-c8d90e00-c173-11eb-97d1-bacc6a07632f.mp4)
 
-### [Pruebas E2E Kraken](https://github.com/Dherrera54/JWDA-Semana8/tree/E2E_Kraken_Ghost3.42.5)
+## Semana 2 a semana 8
 
-# Pruebas visuales VRT
+Las actividades a realizar en estas semanas se encuentran detalladas en la estrategia de pruebas, y a continuanción se detallan los recursos a utilizar en cada una de esas actividades
+
+### Pruebas E2E con Kraken
+
+[Pruebas E2E Kraken](https://github.com/Dherrera54/JWDA-Semana8/tree/E2E_Kraken_Ghost3.42.5)
+
+### Pruebas de regresión visual VRT con Resemble.JS
+
 En la estrategia visuales par VRT se crea con Resemble, aca contiene el link de la rama que se creo para la ejecucion **https://github.com/Alejito29/JWDA-Kraken-Semana5/tree/Resemble/Semana6/resemble**
 
 Una breve explicacion para la ejecucion de **Resemble.JS**, el detalle se encuentra en el link indicado en la descripcion.
 
-# Ejecutando VRT con Resemble.js ⚙️
+#### Ejecutando VRT con Resemble.js ⚙️
 
 Para ejecutar debe  hacer lo siguiente:
 
@@ -67,13 +74,14 @@ Para ejecutar debe  hacer lo siguiente:
 
 
 
-# Pruebas con pool apriori- pseudo aleatorio y aleatorio
+### Pruebas con generación de pool de datos
+
 La estrategia para esas pruebas se puede ejecutar del  siguiente link **https://github.com/Alejito29/JWDA-Kraken-Semana5/tree/feature/ag_kraken_data**, en el cual se crea un programa que permite crear diferentes archivos en base al escenario escogido. 
 
 Una breve explicacion para la ejecucion de **Pruebas con datos aleatorio- pseudo aleatorio y aleatorio**, el detalle se encuentra en el link indicado en la descripcion del readme
 
 
-## Pasos para ejecutar el Generador.jar para las pruebas E2E sobre Ghost 3.42.5: Este tiene cubrimientos para generar  los diferentes tipos de datos **Prioriatio, Complemento del pseudo y aleatorio**
+#### Pasos para ejecutar el Generador.jar para las pruebas E2E sobre Ghost 3.42.5: Este tiene cubrimientos para generar  los diferentes tipos de datos **Prioriatio, Complemento del pseudo y aleatorio**
 
 * Clonar el repositorio **https://github.com/Alejito29/JWDA-Kraken-Semana5**
 
