@@ -106,3 +106,8 @@ Observacion en la wiki se encuentra el detalle tecnico como ejecutar cada prueba
 
 Adicional en caso que desen tener acceso al fuente del codigo java lo encontraran aca **https://github.com/Alejito29/JWDA-Java-Semana7**
 
+## - Pruebas de reconocimiento con Smart MOnkey
+
+Para las pruebas de reconocimiento aleatorios usaremos la herramienta Smart Monkey que se ejecuta en Cypress. El procedimiento y recursos para la ejecución de pruebas de reconocimiento con Smart Monkey se encuentran detallados en la rama Smart_monkey_Ghost3.42.5 de este respositorio, a la cual se puede acceder en el siguiente enlace
+
+[Pruebas Smart Monkey](https://github.com/Dherrera54/JWDA-Semana8/tree/Smart_monkey_Ghost3.42.5)
