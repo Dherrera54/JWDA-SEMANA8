@@ -24,5 +24,39 @@ El resultado de las pruebas de reconocimiento con Smart-Monkey se encuentra docu
 
 ### [Pruebas E2E Kraken](https://github.com/Dherrera54/JWDA-Semana8/tree/E2E_Kraken_Ghost3.42.5)
 
-### [Pruebas visuales VRT ](https://github.com/Alejito29/JWDA-Kraken-Semana5/tree/semana6_resemble)
+#  [Pruebas visuales VRT ](https://github.com/Alejito29/JWDA-Kraken-Semana5/tree/semana6_resemble)
 En la estrategia visuales par VRT se crea con Resemble, aca contiene el link de la rama que se creo para la ejecucion **https://github.com/Alejito29/JWDA-Kraken-Semana5/tree/Resemble/Semana6/resemble**
+
+Una breve explicacion para la ejecucion de **Resemble.JS**, el detalle se encuentra en el link indicado en la descripcion.
+
+# Ejecutando VRT con Resemble.js ⚙️
+
+Para ejecutar debe  hacer lo siguiente:
+
+1. **Para ejecutar VRT en Resemble.js** debe ejecutar el comando **git checkout Resemble/Semana6**
+2. Luego de moverse a la rama Resemble/Semana6 debe ir a la carpeta **resemble** ejecutando el siguiente comando **cd resemble**
+3. Allí deberá ejecutar el comando **npm install**
+4. En el archivo **index.js** que se encuentra dentro de la carpeta **resemble** deberá modificar el path que contiene a la carpeta **resemble**, como se indica en la siguiente imagen:
+
+![image](https://user-images.githubusercontent.com/78829003/118384661-7f15f280-b5cd-11eb-8467-f3b1a93bc2b5.png)
+5. Para ejecutar el vrt para cada uno de los escenarios deberá modificar la variable **scenario** y la variable **steps**, teniendo en cuenta lo siguiente:
+
+![image](https://user-images.githubusercontent.com/78829003/118384817-d6689280-b5ce-11eb-90d3-2f21376cf51e.png)
+
+|Scenario|Steps|
+|--------|-----|
+|Login_invalid_user_invalid_pass|6|
+|Login_invalid_user_valid_pass|6|
+|Manage_settings_change_timezone|10|
+|Manage_settings_make_private|9|
+|Pages_filter_by_item_1st|11|
+|Pages_filter_by_item_1st_to_4th|17|
+|Post_creation_new_post_button|13|
+|Post_creation_scheduled|19|
+|Tag_manage_add_metadata|16|
+|Tag_manage_delete_tag|13|
+
+
+6. Luego de modificar las variables anteriores, deberá ejecutar el comando **node index.js** lo cual le creará una carpeta dentro de la carpeta **results** con el nombre del escenario ejecutado. Dentro de esta carpeta encontrará las imágenes del resultado de las comparaciones realizadas paso a paso y el reporte de cada una de estas comparaciones, igualmente por cada paso.
+
+![image](https://user-images.githubusercontent.com/78829003/118384703-ecc21e80-b5cd-11eb-8b9c-41c7bc78ceef.png)
