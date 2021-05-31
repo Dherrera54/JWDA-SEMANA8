@@ -19,4 +19,4 @@ Ghost ,            Version  3.42.5
 5. Instalar las librerías requeridas con npm-install
 6. Modificar con sus credenciales de GHOST el archivo ./integration/monkey/smart-monkey.js: poner el correo en la linea 660 y password en la linea 661
 7. Ejecutar Smart-Monkey con el siguiente comando: cypress run -C smart-monkey.json
-8. Al terminar la ejecunción puede consultar en la carpeta de resultados
+8. Al terminar la ejecución puede consultar en la carpeta de resultados el video generado por el Monkey
