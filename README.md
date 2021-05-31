@@ -12,6 +12,8 @@ De acuerdo con lo requerido, hemos preparado la estrategia de pruebas para la he
 
 A continuación detallaremos la distribución de actividades a realizar en las 8 semanas de trabajo.
 
+### [Video de presentación de la estrategia 8](https://youtu.be/fxOwWk7aOOo)
+
 ## Semana 1
 
 En la semana 1, además del diseño de la estrategia de pruebas, hemos considerado la reunión con el Gerente de Proyecto así como la organización y estructuración del repositorio que usaremos en el transcurso del proyecto.
