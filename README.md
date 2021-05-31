@@ -36,6 +36,8 @@ Para las pruebas E2E usaremos la herramienta Kraken. El procedimiento y recursos
 
 [Pruebas E2E Kraken](https://github.com/Dherrera54/JWDA-Semana8/tree/E2E_Kraken_Ghost3.42.5)
 
+[Pros y contras de Kraken](https://github.com/Alejito29/JWDA-Kraken-Semana5/wiki/Pros-y-Contras-de-kraken)
+
 ## - Pruebas de regresión visual VRT con Resemble.JS
 
 En la estrategia visuales par VRT se crea con Resemble, aca contiene el link de la rama que se creo para la ejecucion **https://github.com/Alejito29/JWDA-Kraken-Semana5/tree/Resemble/Semana6/resemble**
