@@ -20,7 +20,9 @@ https://drive.google.com/file/d/14q8HxiaViYn40oREXcW4lmNxdKC6othO/view?usp=shari
 
 De igual manera como parte de las actividade de la primera semana, hemos iniciado con las pruebas exploratorias manuales, así como pruebas de reconocimiento aleatorias con Smart-Monkey.
 
-Los resultados de las pruebas exploratorias manuales los hemos documentado en el inventario que se encuentra en el siguiente enlance: [Inventario de pruebas exploratorias](https://uniandes-my.sharepoint.com/:x:/g/personal/d_herrerag_uniandes_edu_co/EchmpZbGTXdOkKtGqViiDvgBieczDyZ6d1mnLPSZLi9Nuw?e=l489rD)
+Los resultados de las pruebas exploratorias manuales los hemos documentado en el inventario que se encuentra en el siguiente enlance: 
+
+[Inventario de pruebas exploratorias](https://uniandes-my.sharepoint.com/:x:/g/personal/d_herrerag_uniandes_edu_co/EchmpZbGTXdOkKtGqViiDvgBieczDyZ6d1mnLPSZLi9Nuw?e=l489rD)
 
 El resultado de las pruebas de reconocimiento con Smart-Monkey se encuentra documentado en el siguiente video:
 
