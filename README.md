@@ -8,6 +8,8 @@ Ghost 3.42.5
 
 De acuerdo con lo requerido, hemos preparado la estrategia de pruebas para la herramienta GHOST v3.42.5, considerando un periodo de 8 semanas para las pruebas, y 4 ingenieros con una carga de 8 horas semanales cada uno. 
 
+[Estrategia de pruebas](https://drive.google.com/file/d/14q8HxiaViYn40oREXcW4lmNxdKC6othO/view?usp=sharing)
+
 A continuación detallaremos la distribución de actividades a realizar en las 8 semanas de trabajo.
 
 ## Semana 1
