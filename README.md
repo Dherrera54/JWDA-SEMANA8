@@ -12,7 +12,7 @@ De acuerdo con lo requerido, hemos preparado la estrategia de pruebas para la he
 
 A continuación detallaremos la distribución de actividades a realizar en las 8 semanas de trabajo.
 
-### [Video de presentación de la estrategia 8](https://youtu.be/fxOwWk7aOOo)
+### [Video de presentación de la estrategia semana 8](https://youtu.be/fxOwWk7aOOo)
 
 ## Semana 1
 
