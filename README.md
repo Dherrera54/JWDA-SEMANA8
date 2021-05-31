@@ -28,7 +28,7 @@ El resultado de las pruebas de reconocimiento con Smart-Monkey se encuentra docu
 
 ## Semana 2 a semana 8
 
-Las actividades a realizar en estas semanas se encuentran detalladas en la estrategia de pruebas, y a continuanción se detallan los recursos a utilizar en cada una de esas actividades
+Las actividades a realizar en estas semanas se encuentran en la estrategia de pruebas, y a continuanción se detallan los recursos a utilizar en cada una de esas actividades
 
 ## - Pruebas E2E con Kraken
 
