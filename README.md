@@ -32,6 +32,8 @@ Las actividades a realizar en estas semanas se encuentran detalladas en la estra
 
 ### Pruebas E2E con Kraken
 
+Para las pruebas E2E usaremos la herramienta Kraken. El procedimiento y recursos para la ejecución de pruebas E2E con Kraken se encuentran detallados en la rama E2E_Kraken_Ghost3.42.5 de este respositorio, a la cual se puede acceder en el siguiente enlace
+
 [Pruebas E2E Kraken](https://github.com/Dherrera54/JWDA-Semana8/tree/E2E_Kraken_Ghost3.42.5)
 
 ### Pruebas de regresión visual VRT con Resemble.JS
