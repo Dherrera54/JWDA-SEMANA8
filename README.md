@@ -30,13 +30,13 @@ El resultado de las pruebas de reconocimiento con Smart-Monkey se encuentra docu
 
 Las actividades a realizar en estas semanas se encuentran detalladas en la estrategia de pruebas, y a continuanción se detallan los recursos a utilizar en cada una de esas actividades
 
-### Pruebas E2E con Kraken
+## - Pruebas E2E con Kraken
 
 Para las pruebas E2E usaremos la herramienta Kraken. El procedimiento y recursos para la ejecución de pruebas E2E con Kraken se encuentran detallados en la rama E2E_Kraken_Ghost3.42.5 de este respositorio, a la cual se puede acceder en el siguiente enlace
 
 [Pruebas E2E Kraken](https://github.com/Dherrera54/JWDA-Semana8/tree/E2E_Kraken_Ghost3.42.5)
 
-### Pruebas de regresión visual VRT con Resemble.JS
+## - Pruebas de regresión visual VRT con Resemble.JS
 
 En la estrategia visuales par VRT se crea con Resemble, aca contiene el link de la rama que se creo para la ejecucion **https://github.com/Alejito29/JWDA-Kraken-Semana5/tree/Resemble/Semana6/resemble**
 
@@ -76,7 +76,7 @@ Para ejecutar debe  hacer lo siguiente:
 
 
 
-### Pruebas con generación de pool de datos
+## - Pruebas con generación de pool de datos
 
 La estrategia para esas pruebas se puede ejecutar del  siguiente link **https://github.com/Alejito29/JWDA-Kraken-Semana5/tree/feature/ag_kraken_data**, en el cual se crea un programa que permite crear diferentes archivos en base al escenario escogido. 
 
