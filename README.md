@@ -14,6 +14,10 @@ A continuación detallaremos la distribución de actividades a realizar en las 8
 
 En la semana 1, además del diseño de la estrategia de pruebas, hemos considerado la reunión con el Gerente de Proyecto así como la organización y estructuración del repositorio que usaremos en el transcurso del proyecto.
 
+En el siguiente link puede encontrar la estrategia de pruebas diseñada:
+
+https://drive.google.com/file/d/14q8HxiaViYn40oREXcW4lmNxdKC6othO/view?usp=sharing
+
 De igual manera como parte de las actividade de la primera semana, hemos iniciado con las pruebas exploratorias manuales, así como pruebas de reconocimiento aleatorias con Smart-Monkey.
 
 Los resultados de las pruebas exploratorias manuales los hemos documentado en el inventario que se encuentra en el siguiente enlance: [Inventario de pruebas exploratorias](https://uniandes-my.sharepoint.com/:x:/g/personal/d_herrerag_uniandes_edu_co/EchmpZbGTXdOkKtGqViiDvgBieczDyZ6d1mnLPSZLi9Nuw?e=l489rD)
