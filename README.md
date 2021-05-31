@@ -46,6 +46,8 @@ Para las pruebas E2E usaremos la herramienta Kraken. El procedimiento y recursos
 
 En la estrategia visuales par VRT se crea con Resemble, aca contiene el link de la rama que se creo para la ejecucion **https://github.com/Alejito29/JWDA-Kraken-Semana5/tree/Resemble/Semana6/resemble**
 
+[Pros y contras de Resemble.js](https://github.com/Alejito29/JWDA-Kraken-Semana5/wiki/Pros-y-Contras-de-resemble-js)
+
 A continuación una breve explicación para la ejecución de **Resemble.JS**, el detalle se encuentra en la rama del repositorio.
 
 #### Ejecutando VRT con Resemble.js ⚙️
