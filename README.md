@@ -24,7 +24,7 @@ El resultado de las pruebas de reconocimiento con Smart-Monkey se encuentra docu
 
 ### [Pruebas E2E Kraken](https://github.com/Dherrera54/JWDA-Semana8/tree/E2E_Kraken_Ghost3.42.5)
 
-#  [Pruebas visuales VRT ](https://github.com/Alejito29/JWDA-Kraken-Semana5/tree/semana6_resemble)
+# Pruebas visuales VRT
 En la estrategia visuales par VRT se crea con Resemble, aca contiene el link de la rama que se creo para la ejecucion **https://github.com/Alejito29/JWDA-Kraken-Semana5/tree/Resemble/Semana6/resemble**
 
 Una breve explicacion para la ejecucion de **Resemble.JS**, el detalle se encuentra en el link indicado en la descripcion.
@@ -60,3 +60,35 @@ Para ejecutar debe  hacer lo siguiente:
 6. Luego de modificar las variables anteriores, deberá ejecutar el comando **node index.js** lo cual le creará una carpeta dentro de la carpeta **results** con el nombre del escenario ejecutado. Dentro de esta carpeta encontrará las imágenes del resultado de las comparaciones realizadas paso a paso y el reporte de cada una de estas comparaciones, igualmente por cada paso.
 
 ![image](https://user-images.githubusercontent.com/78829003/118384703-ecc21e80-b5cd-11eb-8b9c-41c7bc78ceef.png)
+
+
+
+# Pruebas con datos aleatorio- pseudo aleatorio y aleatorio
+La estrategia para esas pruebas se puede ejecutar del  siguiente link **https://github.com/Alejito29/JWDA-Kraken-Semana5/tree/feature/ag_kraken_data**, en el cual se un programa que permite crear diferentes archivos en base al escenario escogido. 
+
+Una breve explicacion para la ejecucion de **Pruebas con datos aleatorio- pseudo aleatorio y aleatorio**, el detalle se encuentra en el link indicado en la descripcion del readme
+
+
+## Pasos para ejecutar el Generador.jar para las pruebas E2E sobre Ghost 3.42.5: Este tiene cubrimientos para generar  los diferentes tipos de datos **Prioriatio, Complemento del pseudo y aleatorio**
+
+* Clonar el repositorio **https://github.com/Alejito29/JWDA-Kraken-Semana5**
+
+* Ubicarse en la rama **feature/ag_kraken_data**
+
+* Abrir el ejecutable **Generador.jar** que se encuentra en la raiz del proyecto, en caso de ser sistema operativo linux debe ejecutarlo con la terminal, si es mac o windows unicamente debe darle doble click, como requisito es necesario que tenga instalado JAVA  1.7.
+
+![Evidenica jar2](https://user-images.githubusercontent.com/78820446/119274217-70829900-bbd4-11eb-989e-1825cb0150da.png)
+
+
+* Por ultimo debe escoger el nombre del test, cuantas veces se va repetir la creacion y que tipo de dato desea. Con el jar podra crear diferentes tipos de datos, en este caso usted define cuanto dataset desea generar, aunque si genera el maximo cubriria los casos solicitados solo que se demoraria la ejecucion.
+
+ ![Evidenica jar](https://user-images.githubusercontent.com/78820446/119274137-1bdf1e00-bbd4-11eb-9f1e-ab7cb971bb13.png)
+
+Observacion en la wiki se encuentra el detalle tecnico como ejecutar cada prueba con los diferentes tipos de datos 
+
+* https://github.com/Alejito29/JWDA-Kraken-Semana5/wiki/Pool-de-datos-Apriori
+* https://github.com/Alejito29/JWDA-Kraken-Semana5/wiki/Pool-de-datos-pseudo-aleatorio-din%C3%A1mico
+* https://github.com/Alejito29/JWDA-Kraken-Semana5/wiki/Aleatorio
+
+Adicional en caso que desen tener acceso al fuente del codigo java lo encontraran aca **https://github.com/Alejito29/JWDA-Java-Semana7**
+
