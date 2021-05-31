@@ -23,3 +23,6 @@ El resultado de las pruebas de reconocimiento con Smart-Monkey se encuentra docu
 [!image](https://user-images.githubusercontent.com/78655008/120123322-c8d90e00-c173-11eb-97d1-bacc6a07632f.mp4)
 
 ### [Pruebas E2E Kraken](https://github.com/Dherrera54/JWDA-Semana8/tree/E2E_Kraken_Ghost3.42.5)
+
+### [Pruebas visuales VRT ](https://github.com/Alejito29/JWDA-Kraken-Semana5/tree/semana6_resemble)
+En la estrategia visuales par VRT se crea con Resemble, aca contiene el link de la rama que se creo para la ejecucion **https://github.com/Alejito29/JWDA-Kraken-Semana5/tree/semana6_resemble**
