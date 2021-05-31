@@ -64,7 +64,7 @@ Para ejecutar debe  hacer lo siguiente:
 
 
 # Pruebas con datos aleatorio- pseudo aleatorio y aleatorio
-La estrategia para esas pruebas se puede ejecutar del  siguiente link **https://github.com/Alejito29/JWDA-Kraken-Semana5/tree/feature/ag_kraken_data**, en el cual se un programa que permite crear diferentes archivos en base al escenario escogido. 
+La estrategia para esas pruebas se puede ejecutar del  siguiente link **https://github.com/Alejito29/JWDA-Kraken-Semana5/tree/feature/ag_kraken_data**, en el cual se crea un programa que permite crear diferentes archivos en base al escenario escogido. 
 
 Una breve explicacion para la ejecucion de **Pruebas con datos aleatorio- pseudo aleatorio y aleatorio**, el detalle se encuentra en el link indicado en la descripcion del readme
 
